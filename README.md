@@ -2,7 +2,7 @@
 
 Projeto de Uma Bateria Eletronica.
 
-<a href="https://diogopolesso.github.io/diogopolesso-imersao-Bateria-JavaScript-html-css/" color="white">
+<a href="https://diogopolesso.github.io/Bateria-Eletronica/" color="white">
       Acesse Aqui
 
 ****
